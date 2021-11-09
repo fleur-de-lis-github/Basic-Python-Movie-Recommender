@@ -1,4 +1,4 @@
-# Python-Movie-Recommender
+# Basic Python-Movie-Recommender
 
 This project will take you through the process of mashing up data from two different APIs to make movie recommendations. The TasteDive API lets you provide a movie (or bands, TV shows, etc.) as a query input, and returns a set of related items. The OMDB API lets you provide a movie title as a query input and get back data about the movie, including scores from various review sites (Rotten Tomatoes, IMDB, etc.).
 
@@ -9,3 +9,10 @@ To avoid problems with rate limits and site accessibility, we have provided a ca
 Your first task will be to fetch data from TasteDive. The documentation for the API is at https://tastedive.com/read/api.
 
 Your next task will be to fetch data from OMDB. The documentation for the API is at https://www.omdbapi.com/
+
+you will not need an api key in order to complete the project, because all data will be found in the cache.
+
+The cache includes data for the following queries:
+
+![Screenshot (1483)](https://user-images.githubusercontent.com/73738414/140882378-c0f1de06-6601-4c28-9667-bfb8453a6252.png)
+
