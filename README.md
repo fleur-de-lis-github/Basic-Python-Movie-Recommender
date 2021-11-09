@@ -14,5 +14,6 @@ you will not need an api key in order to complete the project, because all data 
 
 The cache includes data for the following queries:
 
-![Screenshot (1483)](https://user-images.githubusercontent.com/73738414/140882378-c0f1de06-6601-4c28-9667-bfb8453a6252.png)
+![Screenshot (1472)](https://user-images.githubusercontent.com/73738414/140882526-2ccc2e86-ae12-4ee7-8d26-cb95ba7697d1.png)
+
 
